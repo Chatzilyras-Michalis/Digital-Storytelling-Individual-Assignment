@@ -13,6 +13,8 @@
 
 
 # 1st Deliverable
+***(Unit 2 - Creative challenge)***
+- Firstly i followed the instructions from the creative challenge and from what i learned in class and i created unique buildings with the help of **ProBuilder**.  
 
 https://youtu.be/hj6jB1G54cc - unit2
 
