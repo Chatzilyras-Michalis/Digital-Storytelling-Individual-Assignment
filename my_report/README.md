@@ -40,13 +40,21 @@
 [VIDEO-UNIT3](https://youtu.be/rJ7xLUldSx8 )
 
 ***(Unit 4 - Creative challenge)***
+- For the final part of the deliverable i added lightning to the traffic lights and lamp posts in the scene.The lights created the atmosphere to the scene since the scenery was dark.Then from [here](https://sketchfab.com/feed) i downloaded my characters and my  props that i wanted to animate.The files had to be **fbx**.To animate my characters i used [this](https://www.mixamo.com/#/) site.Lastly i followed the instructions from [here](https://learn.unity.com/tutorial/lesson-4-3-configure-humanoid-rigs-and-add-animation-clips?uv=2019.4&courseId=5ee00851edbc2a0022274f75&projectId=5ed9b7cdedbc2a115bab2a9f#5ed99d04edbc2a06de31344d) to animate correctly my characters and my props.
+
+![BLUE-L](https://user-images.githubusercontent.com/100956239/227394094-c7e14d9c-1b2b-4d4b-9470-ec5669c40622.png)
+![PropLight](https://user-images.githubusercontent.com/100956239/227394125-6c23c1ce-9f31-4a20-88b6-e12213f0c9a0.png)
+![3DIFFLIGHTS](https://user-images.githubusercontent.com/100956239/227394131-21d95fec-4e5a-4504-976f-508a8ef6f3ad.png)
+![Characters](https://user-images.githubusercontent.com/100956239/227394143-e12873c5-6fc0-4eb4-ac35-0a285cef94da.png)
+![2023-03-24 (3)](https://user-images.githubusercontent.com/100956239/227394149-a22c8c6c-f21a-4cbe-90a8-e5fa8487df6d.png)
+![ANIMATION](https://user-images.githubusercontent.com/100956239/227394155-a9b812a0-13cc-45ef-ac01-91f9df7eb1b2.png)
 
 
 
 
 
+[VIDEO-UNIT4](https://youtu.be/1oq_En9--aY)
 
-https://youtu.be/1oq_En9--aY - unit4
 
 
 
