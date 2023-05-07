@@ -71,14 +71,22 @@
 ![2023-05-05 (2)](https://user-images.githubusercontent.com/100956239/236673336-d8f0fdd5-e384-4864-aadc-442c90284588.png)
 
 ***(Unit 6)***
-- According to the tutoril again I added lights for the Street and on some alleys. I tweaked their colors and brightness a bit to get what I wanted. Then I applied fog and some particles to the scene.
+- According to the tutoril again I added lights for the Street and on some alleys. I tweaked their colors and brightness a bit to get what I wanted. Then I applied fog  to the scene.
 
 - When i made this project i was supposed to make it as a 3d URP insted of a 3d so i couldnt complete the following bullets.I now have to make a new world as 3d URP project. :(
-![2023-05-05 (4)](https://user-images.githubusercontent.com/100956239/236673619-1a44dede-f56b-484a-b208-e33ac82c4d7a.png)
-![2023-05-05 (6)](https://user-images.githubusercontent.com/100956239/236673621-b2aa09ea-8f2d-49d2-a0ff-fdcc44a380e7.png)
-![2023-05-05 (5)](https://user-images.githubusercontent.com/100956239/236673623-f39fedb4-e197-4a3f-a28a-96c7f8265368.png)
-![2023-05-05 (7)](https://user-images.githubusercontent.com/100956239/236673625-c4dd28a9-03d0-4ff7-b044-270771762d50.png)
-![2023-05-05 (8)](https://user-images.githubusercontent.com/100956239/236673627-a1724f40-30eb-4bf5-8c23-56e814948790.png)
+
+
+***(Unit 7)***
+
+- For the final unit I put some Visual Effects in my Scene in the alley and on the road I put Smoke and some particles. Finally I put the song I wanted for background music.
+- When i made this project i was supposed to make it as a 3d URP insted of a 3d so i couldnt complete the following bullets.I now have to make a new world as 3d URP project. :(
+
+![2023-05-05 (4)](https://user-images.githubusercontent.com/100956239/236674017-634357ba-ef36-436d-95e9-cb965b2ff068.png)
+![2023-05-05 (6)](https://user-images.githubusercontent.com/100956239/236674019-61e4a2bd-a3fc-4cc0-9354-032992c590d4.png)
+![2023-05-05 (5)](https://user-images.githubusercontent.com/100956239/236674022-0df6c81d-897b-48ea-90c8-2a618348c181.png)
+![2023-05-05 (7)](https://user-images.githubusercontent.com/100956239/236674023-1cd951db-e0cd-4548-bcc9-9b876dbce5b0.png)
+![2023-05-05![2023-05-05 (10)](https://user-images.githubusercontent.com/100956239/236674051-a3cfb5a5-fbdf-481a-85fe-aa00e92e7f4e.png)
+ ![2023-05-05 (9)](https://user-images.githubusercontent.com/100956239/236674062-1cb7502b-988f-4712-b8a4-17462049535a.png)
 
 
 
