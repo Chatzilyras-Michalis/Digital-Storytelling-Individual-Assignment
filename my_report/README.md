@@ -60,6 +60,33 @@
 
 # 2nd Deliverable
 
+***(Unit 5)***
+
+- According to the tutorial I added 4 cameras so that they would alternate with each other. Then during the Recording I readjusted the position of the camers for a better outcome.
+
+![2023-05-04](https://user-images.githubusercontent.com/100956239/236673305-4e8021b4-52ae-4285-be40-48a6ab8ada92.png)
+![2023-05-04 (1)](https://user-images.githubusercontent.com/100956239/236673308-e6ed65fd-ca0f-4621-b704-a29a9e858944.png)
+![2023-05-05 (1)](https://user-images.githubusercontent.com/100956239/236673327-8e500cc2-81e9-4a03-ac8b-3e9bea3580c9.png)
+![2023-05-05](https://user-images.githubusercontent.com/100956239/236673332-3aa30190-3487-4a25-9654-46a74b168537.png)
+![2023-05-05 (2)](https://user-images.githubusercontent.com/100956239/236673336-d8f0fdd5-e384-4864-aadc-442c90284588.png)
+
+***(Unit 6)***
+- According to the tutoril again I added lights for the Street and on some alleys. I tweaked their colors and brightness a bit to get what I wanted. Then I applied fog and some particles to the scene.
+
+- When i made this project i was supposed to make it as a 3d URP insted of a 3d so i couldnt complete the following bullets.I now have to make a new world as 3d URP project. :(
+![2023-05-05 (4)](https://user-images.githubusercontent.com/100956239/236673619-1a44dede-f56b-484a-b208-e33ac82c4d7a.png)
+![2023-05-05 (6)](https://user-images.githubusercontent.com/100956239/236673621-b2aa09ea-8f2d-49d2-a0ff-fdcc44a380e7.png)
+![2023-05-05 (5)](https://user-images.githubusercontent.com/100956239/236673623-f39fedb4-e197-4a3f-a28a-96c7f8265368.png)
+![2023-05-05 (7)](https://user-images.githubusercontent.com/100956239/236673625-c4dd28a9-03d0-4ff7-b044-270771762d50.png)
+![2023-05-05 (8)](https://user-images.githubusercontent.com/100956239/236673627-a1724f40-30eb-4bf5-8c23-56e814948790.png)
+
+
+
+
+
+
+
+
 
 # 3rd Deliverable 
 
