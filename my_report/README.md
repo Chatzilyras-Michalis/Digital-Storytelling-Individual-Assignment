@@ -65,29 +65,31 @@
 - According to the tutorial I added 4 cameras so that they would alternate with each other. Then during the Recording I readjusted the position of the camers for a better outcome.
 
 ![2023-05-04](https://user-images.githubusercontent.com/100956239/236673305-4e8021b4-52ae-4285-be40-48a6ab8ada92.png)
-![2023-05-04 (1)](https://user-images.githubusercontent.com/100956239/236673308-e6ed65fd-ca0f-4621-b704-a29a9e858944.png)
-![2023-05-05 (1)](https://user-images.githubusercontent.com/100956239/236673327-8e500cc2-81e9-4a03-ac8b-3e9bea3580c9.png)
-![2023-05-05](https://user-images.githubusercontent.com/100956239/236673332-3aa30190-3487-4a25-9654-46a74b168537.png)
-![2023-05-05 (2)](https://user-images.githubusercontent.com/100956239/236673336-d8f0fdd5-e384-4864-aadc-442c90284588.png)
+
 
 ***(Unit 6)***
 - According to the tutoril again I added lights for the Street and on some alleys. I tweaked their colors and brightness a bit to get what I wanted. Then I applied fog  to the scene.
 
 - When i made this project i was supposed to make it as a 3d URP insted of a 3d so i couldnt complete the following bullets.I now have to make a new world as 3d URP project. :(
+![2023-05-04 (1)](https://user-images.githubusercontent.com/100956239/236673308-e6ed65fd-ca0f-4621-b704-a29a9e858944.png)
+![2023-05-05 (1)](https://user-images.githubusercontent.com/100956239/236673327-8e500cc2-81e9-4a03-ac8b-3e9bea3580c9.png)
+![2023-05-05](https://user-images.githubusercontent.com/100956239/236673332-3aa30190-3487-4a25-9654-46a74b168537.png)
+![2023-05-05 (2)](https://user-images.githubusercontent.com/100956239/236673336-d8f0fdd5-e384-4864-aadc-442c90284588.png)
 
 
 ***(Unit 7)***
 
 - For the final unit I put some Visual Effects in my Scene in the alley and on the road I put Smoke and some particles. Finally I put the song I wanted for background music.
-- When i made this project i was supposed to make it as a 3d URP insted of a 3d so i couldnt complete the following bullets.I now have to make a new world as 3d URP project. :(
+- When i made this project i was supposed to make it as a 3d URP insted of a 3d so i couldnt add some effects.I now have to make a new world as 3d URP project. :(
 
 ![2023-05-05 (4)](https://user-images.githubusercontent.com/100956239/236674017-634357ba-ef36-436d-95e9-cb965b2ff068.png)
 ![2023-05-05 (6)](https://user-images.githubusercontent.com/100956239/236674019-61e4a2bd-a3fc-4cc0-9354-032992c590d4.png)
 ![2023-05-05 (5)](https://user-images.githubusercontent.com/100956239/236674022-0df6c81d-897b-48ea-90c8-2a618348c181.png)
 ![2023-05-05 (7)](https://user-images.githubusercontent.com/100956239/236674023-1cd951db-e0cd-4548-bcc9-9b876dbce5b0.png)
 ![2023-05-05![2023-05-05 (10)](https://user-images.githubusercontent.com/100956239/236674051-a3cfb5a5-fbdf-481a-85fe-aa00e92e7f4e.png)
- ![2023-05-05 (9)](https://user-images.githubusercontent.com/100956239/236674062-1cb7502b-988f-4712-b8a4-17462049535a.png)
+![2023-05-05 (9)](https://user-images.githubusercontent.com/100956239/236674062-1cb7502b-988f-4712-b8a4-17462049535a.png)
 
+**- Ill come back with a new world soon**
 
 
 
